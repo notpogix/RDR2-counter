@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Rebellion';
+  src: url('./assets/rebellion.ttf') format('truetype');
+}
+
+body {
+  margin: 0;
+  background: transparent;
+  font-family: 'Rebellion', serif;
+  color: #ff0000;
+  font-size: 64px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+#counter {
+  text-shadow: 2px 2px 4px black;
+}
