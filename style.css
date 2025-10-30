@@ -1,12 +1,12 @@
 @font-face {
-  font-family: 'Rebellion';
-  src: url('./assets/rebellion.ttf') format('truetype');
+  font-family: 'Chinese Rocks';
+  src: url('./assets/chinese-rocks.ttf') format('truetype');
 }
 
 body {
   margin: 0;
   background: transparent;
-  font-family: 'Rebellion', serif;
+  font-family: 'Chinese Rocks', sans-serif;
   color: #ff0000;
   font-size: 64px;
   text-align: center;
